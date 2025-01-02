@@ -1,4 +1,3 @@
-# BIke_Sharing_Demand_AutoGluon
 # Bike Sharing Demand Prediction  
 
 ## Overview  
